@@ -9,7 +9,7 @@
 # the content is essentially the same as 02_exercise, but now the code is no 
 # longer yours!
 # install.packages("devtools")
-devtools::install_github("rstats-wtf/wtfdbg")
+pak::pak("rstats-wtf/wtfdbg")
 
 
 # attach package ---------------------------------------------------------------
